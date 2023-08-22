@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="vue logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" height="40" alt="nuxt logo"  />
   <img width="12" />
