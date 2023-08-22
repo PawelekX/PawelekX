@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Paweł and I'm a 21 years old software developer, from Poland </p>
 
 ###
 
