@@ -9,7 +9,7 @@
 
 
 <br>
-### <p align="left">My name is Paweł and I'm a 23 years old software developer, from Poland. </p>
+<p align="left">My name is Paweł and I'm a 23 years old software developer, from Poland. </p>
 <br>
 
 <h2 align="left">About me</h2>
