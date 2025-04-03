@@ -1,4 +1,3 @@
-
 <br>
 <br>
 
@@ -20,7 +19,7 @@
 <br>
 
 <h2 align="left">📧 You can contact me on</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-pater/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-pater/)
 
 _I am open to new opportunities/contributions._
 <br>
@@ -50,4 +49,3 @@ _I am open to new opportunities/contributions._
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <br>
-
