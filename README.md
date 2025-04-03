@@ -1,8 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+
+<br>
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+my+name+is+Paweł+;I'm+23+years+old;I'm+a+programmer+and+a+Software+Engineer;Welcome+to+my+github+profile!+:%29)
+<br>
+<br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my github profile
 
 ###
 
-<p align="left">My name is Paweł and I'm a 22 years old software developer, from Poland. </p>
+### <p align="left">My name is Paweł and I'm a 23 years old software developer, from Poland. </p>
 
 ###
 
@@ -35,3 +42,4 @@
 </div>
 
 ###
+
