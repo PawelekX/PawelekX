@@ -19,6 +19,12 @@
 <p align="left">✨ Creating bugs since 2020 ;)<br>📚 I'm currently learning C# and Java at university<br>🎯 My goal is to finish my studies and broaden my knowledge in the field of programming and automation as much as possible</p>
 <br>
 
+<h2 align="left">📧 You can contact me on</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-pater/)
+
+_I am open to new opportunities/contributions._
+<br>
+
 <h2 align="left">🥇 Technology's</h2>
 <br>
 <div align="left">
