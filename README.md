@@ -14,7 +14,7 @@
 <h2 align="left">About me</h2>
 <br>
 
-<p align="left">I've been programming for 4 years, and since then it's always been fun. I have been dealing with this commercially since 2022. At the same time, I am currently a student of the Lodz University of Technology in the field of computer science, exploring my knowledge. I always try to do my work unconventionally and professionally.</p> 
+<p align="left">I've been programming for 5 years, and since then it's always been fun. I have been dealing with this commercially since 2022. At the same time, I am currently a student of the Lodz University of Technology in the field of computer science, exploring my knowledge. I always try to do my work unconventionally and professionally.</p> 
 <p align="left">✨ Creating bugs since 2020 ;)<br>📚 I'm currently learning C# and Java at university<br>🎯 My goal is to finish my studies and broaden my knowledge in the field of programming and automation as much as possible</p>
 <br>
 
