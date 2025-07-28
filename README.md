@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%FFFFFF&size=20&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+my+name+is+Paweł;I'm+a+Software+Developer;Welcome+to+my+github+profile!+:%29)
 <br>
 <br>
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my github profile
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my Github profile
 
 
 <br>
