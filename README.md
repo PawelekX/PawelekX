@@ -18,7 +18,7 @@
 <p align="left">✨ Creating bugs since 2020 ;)<br>📚 I'm currently learning C# and Java at university<br>🎯 My goal is to finish my studies and broaden my knowledge in the field of programming and automation as much as possible</p>
 <br>
 
-<h2 align="left">🥇 Technology's</h2>
+<h2 align="left">🥇 Technologies</h2>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
